@@ -11,5 +11,8 @@ http://179.43.96.253:8000/play/a235/index.m3u8
 http://179.43.96.253:8000/play/a2c3/index.m3u8
 #EXTINF:0,ESPN 3 HD
 http://179.43.96.253:8000/play/a2c6/index.m3u8
-#EXTINF:0,ESPN 3 HD
-http://179.43.96.253:8000/play/a1yn/index.m3u8
+#EXTINF:0,ESPN 4 HD
+http://179.43.96.253:8000/play/a21y/index.m3u8
+
+#EXTINF:0,AXN HD
+http://45.228.235.116:8000/play/a0iy/index.m3u8
