@@ -7,3 +7,9 @@ http://179.43.96.253:8000/play/a24x/index.m3u8
 http://179.43.96.253:8000/play/a2c1/index.m3u8
 #EXTINF:0,ESPN Premium HD
 http://179.43.96.253:8000/play/a235/index.m3u8
+#EXTINF:0,ESPN 2 HD
+http://179.43.96.253:8000/play/a2c3/index.m3u8
+#EXTINF:0,ESPN 3 HD
+http://179.43.96.253:8000/play/a2c6/index.m3u8
+#EXTINF:0,ESPN 3 HD
+http://179.43.96.253:8000/play/a1yn/index.m3u8
