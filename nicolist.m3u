@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,DIRECTV Sport
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:0,ESPN HD
+http://179.43.96.253:8000/play/a24x/index.m3u8
+#EXTINF:0,ESPN HD Lat
+http://179.43.96.253:8000/play/a2c1/index.m3u8
+#EXTINF:0,ESPN Premium HD
+http://179.43.96.253:8000/play/a235/index.m3u8
